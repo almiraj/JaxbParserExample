@@ -1,0 +1,11 @@
+<items>
+  <title>TITLE</title>
+  <item>
+    <title>TITLE1</title>
+    <type illegal-attr="ATTR1">TYPE1</type>
+  </item>
+  <item>
+    <title>TITLE2</title>
+    <type>TYPE2</type>
+  </item>
+</items>

@@ -1,0 +1,11 @@
+<items>
+  <title>TITLE</title>
+  <item>
+    <type attr="ATTR1">TYPE1!!!!!</type>
+    <title>TITLE1</title>
+  </item>
+  <item>
+    <title>TITLE2</title>
+    <type>TYPE2</type>
+  </item>
+</items>
